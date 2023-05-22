@@ -1,5 +1,4 @@
 # Problem
-Read the zhangyiming.txt, and use gpt to answer the following question?
 从张一鸣微博创业思考读取内容，然后让ChatGPT去回答下面问题
 
 # Question?
